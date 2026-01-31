@@ -64,7 +64,7 @@
 - yay — Pacman AUR helper
 - Various others (quant, agent-os, etc.)
 
-## Skills Installed (16 total)
+## Skills Installed (19 total)
 1. task-status — Status reporting
 2. cursor-agent — Cursor CLI coding agent
 3. git-essentials — Git workflows
@@ -82,9 +82,15 @@
 15. focus-deep-work — Focus sessions
 16. security-monitor — Intrusion detection
 17. todoist — Task management
+18. github-pr — PR management
+19. notion — Notion API
+20. database — Database operations
+21. github — GitHub CLI
+22. redis — Redis operations
+23. postgres — PostgreSQL
 
 ## Custom Skills Created
-1. **sisyphus-manager** — .sisyphus task tracking system
+1. **sisyphus-manager** — .sisyphus task tracking system (3 scripts)
 
 ## Autonomous Capabilities
 - Can install skills from clawhub
