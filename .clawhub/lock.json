@@ -116,6 +116,14 @@
     "bird": {
       "version": "1.0.0",
       "installedAt": 1769891955885
+    },
+    "gemini": {
+      "version": "1.0.0",
+      "installedAt": 1769892009468
+    },
+    "video-frames": {
+      "version": "1.0.0",
+      "installedAt": 1769892011728
     }
   }
 }
