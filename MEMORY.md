@@ -64,7 +64,7 @@
 - yay — Pacman AUR helper
 - Various others (quant, agent-os, etc.)
 
-## Skills Installed
+## Skills Installed (16 total)
 1. task-status — Status reporting
 2. cursor-agent — Cursor CLI coding agent
 3. git-essentials — Git workflows
@@ -75,6 +75,16 @@
 8. flowmind — Productivity/deep work
 9. web-deploy-github — GitHub Pages deployment
 10. apollo — Apollo.io API integration
+11. keep — Associative memory
+12. sophie-optimizer — Context health management
+13. updater — Auto-updater
+14. moltbook-interact — Moltbook social network
+15. focus-deep-work — Focus sessions
+16. security-monitor — Intrusion detection
+17. todoist — Task management
+
+## Custom Skills Created
+1. **sisyphus-manager** — .sisyphus task tracking system
 
 ## Autonomous Capabilities
 - Can install skills from clawhub
