@@ -136,6 +136,18 @@
     "github-action-gen": {
       "version": "1.0.2",
       "installedAt": 1769892092058
+    },
+    "ai-explain": {
+      "version": "1.0.1",
+      "installedAt": 1769892145969
+    },
+    "coding-agent": {
+      "version": "1.0.1",
+      "installedAt": 1769892147438
+    },
+    "test-runner": {
+      "version": "1.0.0",
+      "installedAt": 1769892149071
     }
   }
 }
