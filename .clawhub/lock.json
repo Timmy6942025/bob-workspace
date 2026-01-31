@@ -160,6 +160,18 @@
     "pentest": {
       "version": "1.0.0",
       "installedAt": 1769892206546
+    },
+    "aws-infra": {
+      "version": "1.0.0",
+      "installedAt": 1769892338148
+    },
+    "ai-cloudflare": {
+      "version": "1.0.1",
+      "installedAt": 1769892340375
+    },
+    "hetzner-cloud": {
+      "version": "1.0.0",
+      "installedAt": 1769892342394
     }
   }
 }
