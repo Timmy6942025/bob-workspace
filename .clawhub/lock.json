@@ -68,6 +68,18 @@
     "todoist": {
       "version": "0.2.1",
       "installedAt": 1769890795684
+    },
+    "github-pr": {
+      "version": "1.0.0",
+      "installedAt": 1769890985893
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1769890987676
+    },
+    "database": {
+      "version": "1.1.0",
+      "installedAt": 1769890989355
     }
   }
 }
