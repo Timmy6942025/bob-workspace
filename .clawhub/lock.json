@@ -24,6 +24,10 @@
     "timer": {
       "version": "1.0.0",
       "installedAt": 1769884438323
+    },
+    "n8n-workflow-automation": {
+      "version": "1.0.0",
+      "installedAt": 1769884642028
     }
   }
 }
