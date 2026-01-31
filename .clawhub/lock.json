@@ -56,6 +56,18 @@
     "moltbook-interact": {
       "version": "1.0.1",
       "installedAt": 1769886959730
+    },
+    "focus-deep-work": {
+      "version": "1.0.0",
+      "installedAt": 1769890791800
+    },
+    "security-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1769890793900
+    },
+    "todoist": {
+      "version": "0.2.1",
+      "installedAt": 1769890795684
     }
   }
 }
