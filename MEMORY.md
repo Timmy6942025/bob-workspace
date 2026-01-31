@@ -109,10 +109,11 @@
 42. ai-cloudflare — Cloudflare Workers
 43. hetzner-cloud — Hetzner Cloud
 
-## Custom Skills Created (3)
+## Custom Skills Created (4)
 1. **sisyphus-manager** — .sisyphus task tracking (3 scripts)
 2. **project-health-monitor** — Project health tracking (2 scripts)
 3. **git-cleanup-helper** — Git cleanup automation (2 scripts)
+4. **memory-manager** — Memory file consolidation (3 scripts)
 
 **Total: 42+ skills**
 
