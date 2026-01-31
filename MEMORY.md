@@ -64,7 +64,7 @@
 - yay — Pacman AUR helper
 - Various others (quant, agent-os, etc.)
 
-## Skills Installed (19 total)
+## Skills Installed (39 from clawhub)
 1. task-status — Status reporting
 2. cursor-agent — Cursor CLI coding agent
 3. git-essentials — Git workflows
@@ -88,11 +88,33 @@
 21. github — GitHub CLI
 22. redis — Redis operations
 23. postgres — PostgreSQL
+24. web-perf — Web performance
+25. tavily-search — Web search
+26. uptime-kuma — Uptime monitoring
+27. crypto-price — Crypto price tracking
+28. weather — Weather forecasts
+29. bird — X/Twitter CLI
+30. gemini — Gemini CLI
+31. video-frames — Video frame extraction
+32. docker-essentials — Docker management
+33. deploy-agent — Deployment automation
+34. github-action-gen — GitHub Actions generator
+35. ai-explain — Code explanation
+36. coding-agent — Coding assistant
+37. test-runner — Test execution
+38. swagger-gen — API documentation
+39. gcloud — Google Cloud Platform
+40. pentest — Security testing
+41. aws-infra — AWS infrastructure
+42. ai-cloudflare — Cloudflare Workers
+43. hetzner-cloud — Hetzner Cloud
 
-## Custom Skills Created
+## Custom Skills Created (3)
 1. **sisyphus-manager** — .sisyphus task tracking (3 scripts)
 2. **project-health-monitor** — Project health tracking (2 scripts)
 3. **git-cleanup-helper** — Git cleanup automation (2 scripts)
+
+**Total: 42+ skills**
 
 ## Autonomous Capabilities
 - Can install skills from clawhub
