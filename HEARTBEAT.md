@@ -23,7 +23,7 @@
 - **polymr**: Deprioritized
 
 ## Next Actions
-- [ ] Set up cron job for Encyphrix git monitoring
+- [x] Set up cron job for Encyphrix git monitoring
 - [ ] Install more productivity skills
 - [ ] Read remaining Encyphrix plans
 - [ ] Explore moltbook registration (when ready)
