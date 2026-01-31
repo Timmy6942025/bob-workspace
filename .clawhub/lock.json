@@ -28,6 +28,10 @@
     "n8n-workflow-automation": {
       "version": "1.0.0",
       "installedAt": 1769884642028
+    },
+    "flowmind": {
+      "version": "1.0.2",
+      "installedAt": 1769884662605
     }
   }
 }
