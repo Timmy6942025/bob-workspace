@@ -124,6 +124,18 @@
     "video-frames": {
       "version": "1.0.0",
       "installedAt": 1769892011728
+    },
+    "docker-essentials": {
+      "version": "1.0.0",
+      "installedAt": 1769892087474
+    },
+    "deploy-agent": {
+      "version": "1.1.0",
+      "installedAt": 1769892089476
+    },
+    "github-action-gen": {
+      "version": "1.0.2",
+      "installedAt": 1769892092058
     }
   }
 }
