@@ -92,6 +92,18 @@
     "postgres": {
       "version": "1.1.0",
       "installedAt": 1769891632651
+    },
+    "web-perf": {
+      "version": "1.0.0",
+      "installedAt": 1769891926728
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1769891928971
+    },
+    "uptime-kuma": {
+      "version": "1.0.0",
+      "installedAt": 1769891930561
     }
   }
 }
