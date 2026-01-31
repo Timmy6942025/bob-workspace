@@ -214,4 +214,62 @@ This is a sophisticated, production-ready trading system. Timmy's not just exper
 
 The god class and config fragmentation are technical debt, but the test coverage and async architecture are solid. This is serious work.
 
-**Next:** Explore basket trading system and quick resolve prioritization.
+## Basket Trading System (New Feature)
+
+### Core Concept
+Instead of copying individual traders, build "baskets" of wallets grouped by topic expertise (geopolitics, crypto, sports, elections). Generate signals when 80%+ of basket converges on same outcome.
+
+### Wallet Filtering for Baskets
+- **Age**: Minimum 6 months old
+- **Activity**: 3+ trades (7d), 10+ trades (30d)
+- **Performance**: 45% win rate (7d), 50% win rate (30d)
+- **Bot Exclusion**: HFT score <0.5, arbitrage <0.5, pattern <0.5
+- **Micro-Trade Limit**: Max 1000 trades/day
+
+### Consensus Signal Generation
+1. Monitor basket wallets' current positions
+2. Group by market and outcome
+3. Calculate consensus percentage
+4. Check 80%+ threshold
+5. Validate price band (5% max spread)
+6. Check spread isn't "cooked" (10% max)
+7. Generate signal if all criteria met
+
+### Copycat Cluster Detection
+- Detects correlated wallets copying same traders
+- Excludes duplicate wallets from basket
+- Only representative wallet from each cluster participates
+- Similarity threshold: 85%
+
+### Weighted Scoring
+Recent performance weighted higher:
+- 7-day win rate: 40% weight
+- 30-day win rate: 35% weight
+- All-time win rate: 25% weight
+- Plus: entry vs final price (30%), consistency (20%), volume (10%)
+
+## Quick Resolve Prioritization
+
+### Feature Purpose
+For small accounts, prioritize markets that resolve quickly to accelerate compounding.
+
+### Logic
+- **Threshold**: Configurable hours (default: 72 hours)
+- **Multiplier**: 2x position size bonus for quick-resolve markets
+- **Filter**: Skip markets resolving beyond threshold when enabled
+
+### Implementation
+```python
+is_quick = prefer_quick_resolve and hours_until_resolve <= threshold_hours
+if is_quick:
+    final_multiplier = position_multiplier * quick_resolve_multiplier  # 2x
+```
+
+### Use Case
+Micro mode ($10 accounts) uses this to:
+- Avoid tying up capital in long-running markets
+- Get faster feedback on trades
+- Compound gains more quickly
+- Skip "will it rain next month" type markets
+
+**Next:** Explore the dashboard and live trading components.
