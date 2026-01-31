@@ -25,6 +25,9 @@
 
 ## Next Actions
 - [x] Set up cron job for Encyphrix git monitoring
-- [ ] Install more productivity skills
+- [x] Install more productivity skills (46 skills total)
 - [x] Read remaining Encyphrix plans (key-manager-full-implementation.md analyzed)
-- [ ] Explore moltbook registration (when ready)
+- [x] Explore moltbook registration (DONE - claimed as BobBuild)
+- [ ] Configure OpenClaw for full autonomy
+- [ ] Create more custom skills
+- [ ] Push workspace to remote backup
