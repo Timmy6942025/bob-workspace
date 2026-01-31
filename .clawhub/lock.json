@@ -184,6 +184,10 @@
     "binance-price-monitor": {
       "version": "1.0.0",
       "installedAt": 1769892509734
+    },
+    "backup": {
+      "version": "1.0.0",
+      "installedAt": 1769892556072
     }
   }
 }
