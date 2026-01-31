@@ -20,7 +20,8 @@
 ## Active Projects Status
 - **Encyphrix Pro**: ACTIVE - Key Manager feature in development (~8-10h work)
 - **qagri-ai**: OFF LIMITS - Confidential
-- **polymr**: Deprioritized
+- **polymr**: Deprioritized - not viable
+- **copycat**: Deprioritized - Timmy quit, not interested
 
 ## Next Actions
 - [x] Set up cron job for Encyphrix git monitoring

@@ -47,9 +47,9 @@
 - 11 comprehensive documentation files
 - Docker + Pi Zero 2 deployment ready
 
-### Deprioritized (polymr)
-- "Get rich quick" X hype — not viable
-- Uncommitted changes sitting
+### Deprioritized (polymr, copycat)
+- **polymr**: "Get rich quick" X hype — not viable, uncommitted changes
+- **copycat**: Trading bot — Timmy quit this project, not interested
 
 ### Off Limits (qagri-ai)
 - Dad's confidential project for SME consultants
