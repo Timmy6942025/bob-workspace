@@ -104,6 +104,18 @@
     "uptime-kuma": {
       "version": "1.0.0",
       "installedAt": 1769891930561
+    },
+    "crypto-price": {
+      "version": "0.2.2",
+      "installedAt": 1769891952162
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1769891954223
+    },
+    "bird": {
+      "version": "1.0.0",
+      "installedAt": 1769891955885
     }
   }
 }
