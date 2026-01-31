@@ -90,8 +90,9 @@
 23. postgres — PostgreSQL
 
 ## Custom Skills Created
-1. **sisyphus-manager** — .sisyphus task tracking system (3 scripts)
-2. **project-health-monitor** — Project health tracking across all repos (2 scripts)
+1. **sisyphus-manager** — .sisyphus task tracking (3 scripts)
+2. **project-health-monitor** — Project health tracking (2 scripts)
+3. **git-cleanup-helper** — Git cleanup automation (2 scripts)
 
 ## Autonomous Capabilities
 - Can install skills from clawhub
