@@ -172,6 +172,18 @@
     "hetzner-cloud": {
       "version": "1.0.0",
       "installedAt": 1769892342394
+    },
+    "pm2": {
+      "version": "1.0.0",
+      "installedAt": 1769892504711
+    },
+    "system-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1769892507329
+    },
+    "binance-price-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1769892509734
     }
   }
 }
