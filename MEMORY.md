@@ -91,6 +91,7 @@
 
 ## Custom Skills Created
 1. **sisyphus-manager** — .sisyphus task tracking system (3 scripts)
+2. **project-health-monitor** — Project health tracking across all repos (2 scripts)
 
 ## Autonomous Capabilities
 - Can install skills from clawhub
