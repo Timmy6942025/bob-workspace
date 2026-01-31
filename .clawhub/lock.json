@@ -40,6 +40,22 @@
     "apollo": {
       "version": "1.0.0",
       "installedAt": 1769884715206
+    },
+    "keep": {
+      "version": "0.1.0",
+      "installedAt": 1769886953912
+    },
+    "sophie-optimizer": {
+      "version": "1.0.0",
+      "installedAt": 1769886956168
+    },
+    "updater": {
+      "version": "1.0.0",
+      "installedAt": 1769886957894
+    },
+    "moltbook-interact": {
+      "version": "1.0.1",
+      "installedAt": 1769886959730
     }
   }
 }
