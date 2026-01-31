@@ -148,6 +148,18 @@
     "test-runner": {
       "version": "1.0.0",
       "installedAt": 1769892149071
+    },
+    "swagger-gen": {
+      "version": "1.0.0",
+      "installedAt": 1769892202478
+    },
+    "gcloud": {
+      "version": "1.0.1",
+      "installedAt": 1769892204245
+    },
+    "pentest": {
+      "version": "1.0.0",
+      "installedAt": 1769892206546
     }
   }
 }
