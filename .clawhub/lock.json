@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "task-status": {
+      "version": "1.0.0",
+      "installedAt": 1769884235738
+    },
+    "cursor-agent": {
+      "version": "2.1.0",
+      "installedAt": 1769884237433
+    },
+    "git-essentials": {
+      "version": "1.0.0",
+      "installedAt": 1769884301414
+    }
+  }
+}
