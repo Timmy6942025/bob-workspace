@@ -32,6 +32,14 @@
     "flowmind": {
       "version": "1.0.2",
       "installedAt": 1769884662605
+    },
+    "web-deploy-github": {
+      "version": "1.0.0",
+      "installedAt": 1769884713272
+    },
+    "apollo": {
+      "version": "1.0.0",
+      "installedAt": 1769884715206
     }
   }
 }
