@@ -12,6 +12,18 @@
     "git-essentials": {
       "version": "1.0.0",
       "installedAt": 1769884301414
+    },
+    "home-assistant": {
+      "version": "1.0.0",
+      "installedAt": 1769884367322
+    },
+    "gotify": {
+      "version": "1.0.1",
+      "installedAt": 1769884436510
+    },
+    "timer": {
+      "version": "1.0.0",
+      "installedAt": 1769884438323
     }
   }
 }
